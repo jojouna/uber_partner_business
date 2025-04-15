@@ -1,4 +1,6 @@
 # Parnter Business Modeling - Uber
+This contains only the answers to the questions. To see the process and the actual code, please to go [Uber Partner Business Jupyter Notebook](https://github.com/jojouna/uber_partner_business/blob/main/partner_business_modeling_uber-2.ipynb)
+
 ## Assignment
 
 <b>Scenario 1: It is going to be a huge Saturday and there will need to be many more cars on the road than last week. In order to get drivers to go online, we're assessing the following two bonus options in terms of cost:</b>
